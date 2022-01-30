@@ -835,7 +835,7 @@ body.light-theme{
 
 /*=============== FOOTER ===============*/
 .footer{
-  background-color: var(--first -color);
+  background-color: var(--first-color);
 }
 
 .footer__container{
