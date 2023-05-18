@@ -1041,7 +1041,8 @@ body.light-theme{
   }
 
   .home__img{
-    width: 220px;
+    width: 290px;
+    height: inherit;
   }
 
   .home__social-link{
