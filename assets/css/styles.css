@@ -328,7 +328,8 @@ body.light-theme{
 }
 
 .home__img{
-  width: 160px;
+  width: 220px;
+  height: inherit;
 }
 
 .home__handle{
